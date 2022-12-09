@@ -14,6 +14,7 @@ function App() {
             <NavbarBrand href="/">Ristorantes Con Fusion</NavbarBrand>
           </div>
         </Navbar>
+        <Menu/>
     </div>
   )
 }
